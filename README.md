@@ -4,7 +4,13 @@ Installation and Usage:
 
 Clone the repository: git clone https://github.com/Aks1234-tech/Machine-Learning-Based-False-Data-Injection-Attack-detection-System
 
-Install dependencies: pip install -r requirements.txt
+Install dependencies: cd Machine-Learning-Based-False-Data-Injection-Attack-detection-System
+                         pip install -r requirements.txt
+
+Download a Dataset from Kaggle:
+
+a. Search for a relevant dataset on Kaggle (https://www.kaggle.com/datasets/mohamedamineferrag/edgeiiotset-cyber-security-dataset-of-iot-iiot).
+b. If the downloaded dataset is in a compressed format (e.g., .zip, .tar.gz), extract it using a tool like unzip or tar.
 
 Configure settings: Modify the configuration file for data sources and algorithms.
 
